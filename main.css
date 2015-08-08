@@ -1,3 +1,5 @@
-h2 {
-  display: inline;
+
+
+#gameboard {
+  border: 1px solid black;
 }
