@@ -1,16 +1,16 @@
 
 
-#gameboard tr td {
+tr td {
   border: 1px solid black;
-  width: 50px;
-  height: 50px;
+  width: 100px;
+  height: 100px;
   text-align: center;
 }
 
-#gameboard tr td:hover {
+tr td:hover {
   border: 1px solid black;
-  width: 50px;
-  height: 50px;
+  width: 100px;
+  height: 100px;
   text-align: center;
   background-color: lightgrey;
 }
